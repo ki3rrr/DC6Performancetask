@@ -1,16 +1,16 @@
 export const metadata = {
-    title: "Projects | Harvey  ",
+    title: "Projects | Kier Marvin  ",
 };
 
 const project = [
     {
-        id: 1, name: "Damage Assessmet Tool", description: "A tool to assess damage in various scenarios."
+        id: 1, name: "Book Management System", description: "This tool to manage book inventories."
     }, 
     {
-        id: 2, name: "MDC Queueing System", description: "A system to manage queues in the MDC."
+        id: 2, name: "Patient Record Management System", description: "This system to manage patient records."
     },
     {
-        id: 3, name: "Blood Donor Finder", description: "A system to find blood donors."
+        id: 3, name: "Pet Health and Appointment Monitoring System", description: "This system to monitor pet health and appointments."
     }
 ]
 
@@ -19,7 +19,7 @@ export default function AboutPage() {
         <main>
             <h1 className="text-2xl font-bold">Projects</h1>
             <p className="mt-2">
-                I'd like to explore ajdsfhgajnsd;kgnaklsdmgl/amdsg
+                Here are some of the projects I've worked on
             </p>
 
             <table border={1} className="mt-4 border border-gray-300 border-collapse solid black border-collapse">
